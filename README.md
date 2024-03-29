@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @TadeleWareUrda
-- 
--> I’m interested in Developing Software solutions
 
- -> I’m looking to collaborate with developers over the world.
+I’m working  on  Developing Software solutions.
+
+I’m looking to collaborate with developers over the world.
  
-  ->contact me @TadeleWareUrda
+Contact me @TadeleWareUrda
 
 <!---
 TadeleWareUrda/TadeleWareUrda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
